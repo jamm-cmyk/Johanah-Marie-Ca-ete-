@@ -1,4 +1,4 @@
-<header>
+MY HOBBIES
 
 <!--
   <<< Author notes: Course header >>>
